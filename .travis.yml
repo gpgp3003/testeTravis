@@ -1,2 +1,6 @@
 language: java
-script: teste.java
+script:
+        -teste
+
+
+      
