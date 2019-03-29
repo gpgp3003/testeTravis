@@ -1,6 +1,8 @@
 language: java
-script:
-        -teste
+script: teste
+
+
+
 
 
       
